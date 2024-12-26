@@ -79,7 +79,7 @@ The project is divided into several key modules, each responsible for a specific
 
 5.Scoring System Module:
 *Tracks and updates the player's score.
-*Adjusts the score based on collisions and gameplay events.
+*Adjusts the score based on collisions.
 *Increment and decrement logic based on collisions.
 *Outputs current score value.
 
@@ -94,6 +94,7 @@ The project is divided into several key modules, each responsible for a specific
 *Displays game-related information (score, timer, end-game messages).
 *Renders the player, targets, and bullets on the screen.
 *Outputs updated visuals for the player.
+*Display initial page for user to choose between different difficulties
 
 8.Audio Module:
 *Plays sound effects for actions like shooting, hitting targets, and collisions.
